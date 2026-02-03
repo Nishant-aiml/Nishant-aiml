@@ -1,26 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:161b22,60:1f3a5f,100:58a6ff&height=200&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,25:1a1b27,50:2d1f47,75:1f3a5f,100:58a6ff&height=150&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
 
 # Nishant Datta
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=AI%2FML+Engineer;Applied+AI+Research+Aspirant;Aspiring+AI%2FML+Research+Scientist;AI+Systems+%26+Automation+Builder" alt="Typing SVG" /></a>
-
-<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=AI%2FML+Engineer;Applied+AI+Research+Aspirant;Aspiring+AI%2FML+Research+Scientist;AI+Systems+%26+Automation+Builder" alt="Typing SVG" /></a>
 
 **AI/ML Engineer | Applied AI Research Aspirant | Aspiring AI/ML Research Scientist | AI Systems & Automation Builder**
 
 *Building reliable, interpretable, and production-grade AI systems*
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&section=header" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,14,16&height=2&section=header" width="60%"/>
 
 </div>
 
@@ -34,25 +24,29 @@
 
 ---
 
-## About
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-I am an AI/ML Engineer and Research Aspirant focused on building AI-driven systems—not just models. My work spans AI agents, automation pipelines, decision-support platforms, and intelligent interfaces. I design with prompt engineering and context engineering at the core, and build end-to-end workflows using tools like n8n for intelligent automation.
+## <span style="color:#58a6ff">About</span>
 
-My research interests center on understanding why many AI products fail despite having good models. I explore reliability, interpretability, failure modes, evaluation frameworks, and modular architectures. I am drawn to verification-focused AI design—systems that behave predictably under real-world conditions, not just benchmarks.
+I am an AI/ML Engineer and Research Aspirant focused on building AI-driven systems—not just models. My work spans <span style="color:#79c0ff">AI agents</span>, automation pipelines, decision-support platforms, and intelligent interfaces. I design with <span style="color:#79c0ff">prompt engineering</span> and <span style="color:#79c0ff">context engineering</span> at the core, and build end-to-end workflows using tools like n8n for intelligent automation.
 
-Currently, I am building Iveri—a proactive women safety system focused on risk anticipation, contextual reasoning, and ethical deployment. This project reflects my interest in high-stakes AI design where reliability and human-centered thinking are non-negotiable.
+My research interests center on understanding why many AI products fail despite having good models. I explore <span style="color:#79c0ff">reliability</span>, <span style="color:#79c0ff">interpretability</span>, failure modes, evaluation frameworks, and modular architectures. I am drawn to verification-focused AI design—systems that behave predictably under real-world conditions, not just benchmarks.
+
+Currently, I am building **Iveri**—a proactive women safety system focused on risk anticipation, contextual reasoning, and ethical deployment. This project reflects my interest in high-stakes AI design where <span style="color:#79c0ff">reliability</span> and human-centered thinking are non-negotiable.
 
 I think in systems, not features. I combine research thinking with engineering execution. I translate ambiguous problems into structured AI systems—designing before building, validating before scaling. This approach shapes everything I work on.
 
 I bring high learning velocity, strong ownership, and the ability to grow into Applied AI Engineer or Research Engineer roles. I am most useful in early-stage AI teams and research-aligned groups where depth, rigor, and long-term system quality matter more than speed-to-demo.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="60%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="300"/>
 </div>
 
 ---
 
-## What I Build
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">What I Build</span>
 
 <table>
 <tr>
@@ -105,15 +99,17 @@ I bring high learning velocity, strong ownership, and the ability to grow into A
 
 ---
 
-## Core Focus Areas
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">Core Focus Areas</span>
 
 | Area | Description |
 |:-----|:------------|
-| AI Engineering | End-to-end design, development, and deployment of AI systems |
+| <span style="color:#79c0ff">AI Engineering</span> | End-to-end design, development, and deployment of AI systems |
 | Machine Learning | Model development, training pipelines, and performance optimization |
 | Prompt Engineering | Structured prompt design for consistent and controllable LLM outputs |
 | Context Engineering | Context window optimization and information architecture for LLMs |
-| AI Agents | Autonomous systems with reasoning, planning, and tool-use capabilities |
+| <span style="color:#79c0ff">AI Agents</span> | Autonomous systems with reasoning, planning, and tool-use capabilities |
 | Data Analytics | Exploratory analysis, visualization, and insight extraction |
 | Data Science | Statistical modeling, feature engineering, and predictive systems |
 | Business Intelligence | Dashboard development and data-driven decision infrastructure |
@@ -123,8 +119,10 @@ I bring high learning velocity, strong ownership, and the ability to grow into A
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 <details>
-<summary><strong>Tech Stack</strong></summary>
+<summary><strong><span style="color:#58a6ff">Tech Stack</span></strong></summary>
 
 <br/>
 
@@ -182,7 +180,9 @@ I bring high learning velocity, strong ownership, and the ability to grow into A
 
 ---
 
-## Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">Featured Projects</span>
 
 <table>
 <tr>
@@ -235,22 +235,28 @@ I bring high learning velocity, strong ownership, and the ability to grow into A
 </tr>
 </table>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="300"/>
+</div>
+
 ---
 
-## AI/ML Research Direction
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">AI/ML Research Direction</span>
 
 <table>
 <tr>
 <td align="center" width="16%">
 
-**Reliability**
+**<span style="color:#79c0ff">Reliability</span>**
 <br/>
 <sub>Safety-first design</sub>
 
 </td>
 <td align="center" width="16%">
 
-**Interpretability**
+**<span style="color:#79c0ff">Interpretability</span>**
 <br/>
 <sub>Explainable decisions</sub>
 
@@ -271,7 +277,7 @@ I bring high learning velocity, strong ownership, and the ability to grow into A
 </td>
 <td align="center" width="16%">
 
-**AI Agents**
+**<span style="color:#79c0ff">AI Agents</span>**
 <br/>
 <sub>Autonomous reasoning</sub>
 
@@ -286,6 +292,10 @@ I bring high learning velocity, strong ownership, and the ability to grow into A
 </tr>
 </table>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
+</div>
+
 <details>
 <summary><strong>Research and Engineering Interests</strong></summary>
 
@@ -293,18 +303,20 @@ I bring high learning velocity, strong ownership, and the ability to grow into A
 
 | Research Area | Focus |
 |:--------------|:------|
-| AI Reliability and Safety | Failure mode analysis, robustness testing, safety constraints |
-| Interpretability | Explainability methods, decision transparency, model introspection |
+| <span style="color:#79c0ff">AI Reliability and Safety</span> | Failure mode analysis, robustness testing, safety constraints |
+| <span style="color:#79c0ff">Interpretability</span> | Explainability methods, decision transparency, model introspection |
 | Evaluation Frameworks | Benchmark design, metric development, systematic assessment |
 | Modular Architectures | Composable systems, reusable components, clean interfaces |
-| AI Agents | Tool-augmented reasoning, planning systems, autonomous operation |
+| <span style="color:#79c0ff">AI Agents</span> | Tool-augmented reasoning, planning systems, autonomous operation |
 | Long-term Sustainability | Maintainable systems, technical debt management, evolution patterns |
 
 </details>
 
 ---
 
-## Starter README Templates
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">Starter README Templates</span>
 
 <details>
 <summary><strong>AI Project README Template</strong></summary>
@@ -572,7 +584,9 @@ python agent.py --task "Your task description"
 
 ---
 
-## Achievements
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">Achievements</span>
 
 | Recognition | Context |
 |:------------|:--------|
@@ -584,7 +598,9 @@ python agent.py --task "Your task description"
 
 ---
 
-## Interactive Exploration
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">Interactive Exploration</span>
 
 <div align="center">
 
@@ -597,7 +613,9 @@ python agent.py --task "Your task description"
 
 ---
 
-## GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">GitHub Stats</span>
 
 <div align="center">
 
@@ -608,6 +626,8 @@ python agent.py --task "Your task description"
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-aiml&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant-aiml&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
 
 </div>
 
@@ -633,7 +653,9 @@ I believe in fundamentals-first learning—understanding core principles deeply 
 
 ---
 
-## Connect
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">Connect</span>
 
 <div align="center">
 
