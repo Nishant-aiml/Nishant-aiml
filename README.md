@@ -4,11 +4,18 @@
 
 # Nishant Datta
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=AI%2FML+Engineer;Applied+AI+Research+Aspirant;Aspiring+AI%2FML+Research+Scientist;AI+Systems+%26+Automation+Builder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=780&lines=AI%2FML+Engineer+%26+Applied+AI+Researcher;SIH+2025+National+1st+Runner-Up+(Top+5);Hybrid+RAG+%26+Document+Intelligence+Specialist;Edge+AI+%26+Hybrid+Small+Language+Models+(SLM);Building+Reliable%2C+Production-Grade+AI+Systems" alt="Typing SVG" /></a>
 
-**AI/ML Engineer | Applied AI Research Aspirant | Aspiring AI/ML Research Scientist | AI Systems & Automation Builder**
+**AI/ML Engineer | Applied AI Researcher | Hybrid RAG & Document Intelligence | Edge & SLM Builder**
 
-*Building reliable, interpretable, and production-grade AI systems*
+*Building reliable, interpretable, verified, and production-grade AI systems*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantdatta)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishant-aiml)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattanishant02@gmail.com)
+[![Location](https://img.shields.io/badge/Nagpur%2C%20India-238636?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nagpur,India)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,14,16&height=2&section=header" width="60%"/>
 
@@ -18,7 +25,7 @@
 
 <div align="center">
 
-[`About`](#about) | [`Focus`](#core-focus-areas) | [`Stack`](#tech-stack) | [`Projects`](#featured-projects) | [`Research`](#aiml-research-direction) | [`Templates`](#starter-readme-templates) | [`Stats`](#github-stats) | [`Connect`](#connect)
+[`About`](#about-me) | [`Experience`](#experience) | [`Featured Projects`](#featured-projects) | [`Achievements`](#achievements--honors) | [`Tech Stack`](#tech-stack) | [`Certifications`](#certifications--education) | [`Research`](#aiml-research-direction) | [`Stats`](#github-stats) | [`Connect`](#connect)
 
 </div>
 
@@ -26,17 +33,15 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <span style="color:#58a6ff">About</span>
+## <span style="color:#58a6ff">About Me</span>
 
-I am an AI/ML Engineer and Research Aspirant focused on building AI-driven systems—not just models. My work spans <span style="color:#79c0ff">AI agents</span>, automation pipelines, decision-support platforms, and intelligent interfaces. I design with <span style="color:#79c0ff">prompt engineering</span> and <span style="color:#79c0ff">context engineering</span> at the core, and build end-to-end workflows using tools like n8n for intelligent automation.
+I am an **AI/ML Engineer and Applied AI Researcher** specializing in **Hybrid RAG Pipelines**, **Document Intelligence**, and **Small Language Models (SLMs)**. Currently pursuing my B.Tech in Information Technology at **Priyadarshini College of Engineering, Nagpur (RTMNU University)** with an **8.15 CGPA**.
 
-My research interests center on understanding why many AI products fail despite having good models. I explore <span style="color:#79c0ff">reliability</span>, <span style="color:#79c0ff">interpretability</span>, failure modes, evaluation frameworks, and modular architectures. I am drawn to verification-focused AI design—systems that behave predictably under real-world conditions, not just benchmarks.
+My engineering focus centers on **production reliability, interpretability, and low-latency systems**—bridging theoretical AI research with high-stakes deployment. Whether developing regulatory compliance engines for **Smart India Hackathon (SIH 2025 National 1st Runner-Up / Top 5)** or architecting hybrid dense-sparse retrieval systems during my **Data Science Internship at Mentorizee**, I prioritize verification, deterministic guardrails, and measurable performance improvements over demo hype.
 
-Currently, I am building **Iveri**—a proactive women safety system focused on risk anticipation, contextual reasoning, and ethical deployment. This project reflects my interest in high-stakes AI design where <span style="color:#79c0ff">reliability</span> and human-centered thinking are non-negotiable.
-
-I think in systems, not features. I combine research thinking with engineering execution. I translate ambiguous problems into structured AI systems—designing before building, validating before scaling. This approach shapes everything I work on.
-
-I bring high learning velocity, strong ownership, and the ability to grow into Applied AI Engineer or Research Engineer roles. I am most useful in early-stage AI teams and research-aligned groups where depth, rigor, and long-term system quality matter more than speed-to-demo.
+- 🔬 **Research & Focus**: Hybrid Small Language Models (SLMs), Confidence Calibration, Reciprocal Rank Fusion (RRF), Cross-Encoder Reranking, and On-Device Edge AI.
+- 🏆 **Hackathons & Competitions**: 11+ technical competition wins including SIH 2025 (Top 5 National / 1st Runner-Up), CODEX Hackfest 2026 (2nd Runner-Up), TechSprint 2026 (1st Runner-Up), and IIT Bombay Eureka Ideathon.
+- 🛠️ **Engineering Principles**: Systems over features, deterministic validation, robust chunking/indexing, and quantifiable ablation testing.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="300"/>
@@ -46,137 +51,14 @@ I bring high learning velocity, strong ownership, and the ability to grow into A
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <span style="color:#58a6ff">What I Build</span>
+## <span style="color:#58a6ff">Experience</span>
 
-<table>
-<tr>
-<td align="center" width="33%">
+### **Data Science Intern** · [Mentorizee Pvt. Ltd.](https://mentorizee.com)
+*Nagpur, India | Feb 2026 – Aug 2026*
 
-**AI Systems**
-<br/>
-<sub>Reliability and scale</sub>
-
-</td>
-<td align="center" width="33%">
-
-**AI Agents**
-<br/>
-<sub>Reasoning and orchestration</sub>
-
-</td>
-<td align="center" width="33%">
-
-**Automation Pipelines**
-<br/>
-<sub>End-to-end workflows</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-**Decision Support**
-<br/>
-<sub>Explainable outputs</sub>
-
-</td>
-<td align="center" width="33%">
-
-**Intelligent Interfaces**
-<br/>
-<sub>Human-AI bridging</sub>
-
-</td>
-<td align="center" width="33%">
-
-**Data Systems**
-<br/>
-<sub>Actionable insights</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## <span style="color:#58a6ff">Core Focus Areas</span>
-
-| Area | Description |
-|:-----|:------------|
-| <span style="color:#79c0ff">AI Engineering</span> | End-to-end design, development, and deployment of AI systems |
-| Machine Learning | Model development, training pipelines, and performance optimization |
-| Prompt Engineering | Structured prompt design for consistent and controllable LLM outputs |
-| Context Engineering | Context window optimization and information architecture for LLMs |
-| <span style="color:#79c0ff">AI Agents</span> | Autonomous systems with reasoning, planning, and tool-use capabilities |
-| Data Analytics | Exploratory analysis, visualization, and insight extraction |
-| Data Science | Statistical modeling, feature engineering, and predictive systems |
-| Business Intelligence | Dashboard development and data-driven decision infrastructure |
-| Document Intelligence | Extraction, parsing, and semantic understanding of unstructured documents |
-| Multimodal AI | Systems integrating text, vision, and structured data modalities |
-| System Evaluation | Benchmark design, evaluation frameworks, and reliability testing |
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<details>
-<summary><strong><span style="color:#58a6ff">Tech Stack</span></strong></summary>
-
-<br/>
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-### Frameworks
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
-
-### AI/ML Tools
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![scikit--learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
-
-### Data and Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-
-### DevOps and Deployment
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=0B0D0E)
-
-### Platforms
-
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=E97627)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-![Gradio](https://img.shields.io/badge/Gradio-0d1117?style=for-the-badge&logo=gradio&logoColor=F97316)
-
-</details>
+- **Hybrid RAG System Architecture**: Architected **IVERI**, a hybrid RAG pipeline fusing FAISS dense vector search and BM25 sparse keyword retrieval via Reciprocal Rank Fusion (RRF); boosted **Recall@5 from 0.700 to 0.720 (+2.9%)** and cut hallucination rates from **8.0% to 2.0%** with **95.7% confidence calibration accuracy** validated across 80 queries and multiple document domains.
+- **Latency & Gate Optimization**: Engineered a BGE cross-encoder reranker deployed behind an intelligent confidence gate, slashing reranking latency **~400ms → ~66ms (6× speedup)**.
+- **Production ML Pipelines**: Trained and evaluated classification and regression models on client datasets; designed modular Pandas preprocessing pipelines reducing data prep time by **~60%**, and delivered executive Matplotlib dashboards for stakeholder decision-making.
 
 ---
 
@@ -186,58 +68,195 @@ I bring high learning velocity, strong ownership, and the ability to grow into A
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Smart AI Approval System
-> Intelligent document verification and approval workflow system
+### 🏛️ [Smart Approval AI](https://github.com/Nishant-aiml/Smart-aproval-AI)
+> **Regulatory Document Intelligence & Compliance Engine**
+> 
+> 🥈 **SIH 2025 Grand Finale — 1st Runner-Up & Top 5 Nationally (500+ Teams)**
 >
-> **Focus:** Document Intelligence, Decision Automation, Explainability
->
-> **Smart India Hackathon 2025 Grand Finale — Top 5**
+> **Stack:** `Python` `FastAPI` `Gemini 2.5 Flash` `NumPy` `Next.js` `Firebase` `SQLite` `PyMuPDF`
+
+- **Async Document Ingestion:** Built asynchronous multi-page PDF & Excel ingestion with automatic document-type classification, intelligent parser routing, and OCR fallback for scanned institutional submissions.
+- **50+ KPI Compliance Computation:** Engineered automated evaluation across 10 AICTE regulatory blocks and 8 NBA accreditation blocks (CO-PO mapping, PEO attainment, faculty ratios, research metrics).
+- **Interactive Copilot:** Integrated Gemini 2.5 Flash for natural language gap-analysis queries directly over extracted structural data.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Iveri Quest
-> Research-oriented AI exploration and experimentation platform
+### ⚖️ [IVERI – Legal Metrology System](https://github.com/Nishant-aiml/IVERI-AI-Assisted-Legal-Metrology-Compliance-System)
+> **AI-Assisted Legal Metrology Compliance Inspection Platform**
+> 
+> 🚀 **Smart India Hackathon (SIH) 2026**
 >
-> **Focus:** AI Agents, Context Engineering, Modular Architecture
+> **Stack:** `Python` `FastAPI` `React` `OpenCV` `Tesseract 5.4` `Gemini 3.1 Flash Lite` `Sarvam AI` `Twilio` `SQLite`
+
+- **Parallel Multilingual OCR & Vision:** Extracts 15 statutory fields across English, Hindi, and Gujarati using parallel Tesseract + Gemini 3.1 Flash Lite vision with Sarvam fallback.
+- **Deterministic Verification:** Executes automated, rule-based verification for Legal Metrology Rules 6, 7, 8, and 12 with full evidence provenance.
+- **Field Agent & Audit Trails:** Features multi-surface package inspection with cross-surface pointer resolution, Twilio WhatsApp field agent, PDF evidence reports, RBAC/JWT, and 205 automated tests.
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Iveri-AI
-> Conversational AI assistant with structured reasoning capabilities
+### 📚 [IVERI LLM – Advanced RAG Platform](https://github.com/Nishant-aiml/iveri-llm-advanced-rag-learning-system)
+> **Intelligent AI Learning & Classroom Document Intelligence**
+> 
+> 🏢 **Mentorizee Internship Project**
 >
-> **Focus:** Prompt Engineering, Tool Orchestration, Reliability
+> **Stack:** `Python` `FastAPI` `FAISS` `BM25` `Scikit-learn` `MiniLM-L6-v2` `Docling` `PyMuPDF` `SQLite`
+
+- **Hierarchical Document Chunking:** Parses complex PDFs into an adaptive hierarchical chunk tree using Docling and PyMuPDF with page, section, and structural metadata.
+- **Hybrid Dense-Sparse Fusion:** Combines FAISS embeddings with BM25 keyword indexes via Reciprocal Rank Fusion (RRF), expands 2–3 query variants, and applies MMR diversity filtering.
+- **Calibrated Confidence:** Formulates composite score (0.4×vector + 0.3×RRF + 0.3×agreement); returns cited fallbacks below 0.25 confidence.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Swasthya
-> AI-powered health analytics and decision support platform
+### 🔬 [IVERI-HYBRID-SLM-MODEL](https://github.com/Nishant-aiml/IVERI-HYBRID-SLM-MODEL)
+> **Applied AI Research on Novel Hybrid Small Language Models**
+> 
+> 🧪 **Core Research Initiative**
 >
-> **Focus:** Multimodal AI, Predictive Modeling, User-Centric Design
+> **Stack:** `Python` `PyTorch` `Hugging Face` `Quantization` `Transformers` `SLM Architecture`
+
+- **Novel Hybrid Architecture:** Investigates hybrid model paradigms that fuse compact transformer backbones with specialized expert heads for domain-specific reasoning.
+- **Parameter Efficiency:** Explores high-density reasoning at reduced parameter counts, targeting low latency, lower inference costs, and efficient edge deployment.
+- **Evaluation & Benchmarking:** Systematic ablation of sparse vs. dense components, activation sparsity, and quantized weights under tight memory budgets.
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [ClinIQ](https://github.com/Nishant-aiml/ClinIQ)
+> **Clinical Diagnostic Intelligence & Medical Report Platform**
+> 
+> 🥈 **CODEX Hackfest 2026 — 2nd Runner-Up (State Level)**
+>
+> **Stack:** `Python` `FastAPI` `Scikit-learn` `PyTorch` `Pandas` `Medical NLP` `Streamlit`
+
+- **Multi-Organ Clinical Scoring:** Analyzes diagnostic lab reports and clinical documentation to generate structured 5-organ risk assessments.
+- **Biomarker Extraction:** Automatic extraction and normalization of quantitative and qualitative health markers from semi-structured medical reports.
+- **Explainable Decision Support:** Delivers interpretable risk indicators and clinical flags to support healthcare practitioners during patient triage.
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [Isha-AI](https://github.com/Nishant-aiml/Isha-AI-)
+> **Offline On-Device LLM for Low-End Mobile Devices**
+> 
+> 💡 **Edge AI & Accessibility Practice Project**
+>
+> **Stack:** `Python` `llama.cpp` `ONNX` `Quantization (4-bit/8-bit)` `Mobile Inference` `Android`
+
+- **Zero-Cloud Local Inference:** Bringing offline language models directly to the palm of your hand on low-end, resource-constrained mobile hardware.
+- **Aggressive Quantization:** Optimizes model weights using 4-bit/8-bit integer quantization for low RAM footprints and real-time token throughput without network connectivity.
+- **Private & Accessible:** Ensures end-to-end data privacy by executing 100% locally on device with minimal battery draw.
+
+</td>
+</tr>
+
 <tr>
 <td colspan="2" align="center">
 
-### Crypto Analysis Dashboard
-> Real-time cryptocurrency analytics and visualization system
+### 🤖 [IVERI Voice-Controlled Assistant](https://github.com/Nishant-aiml/Iveri-AI-)
+> **Interactive Voice-Controlled AI Assistant for Raspberry Pi & IoT Environments**
 >
-> **Focus:** Data Pipelines, Business Intelligence, Interactive Visualization
+> **Stack:** `Raspberry Pi (Linux)` `Python` `SpeechRecognition` `pyttsx3 / TTS` `OpenAI / Gemini APIs` `GPIO`
+>
+> A hands-free edge hardware AI assistant engineered for Raspberry Pi. Features real-time wake-word detection, speech-to-text processing, conversational reasoning with fallback LLMs, text-to-speech synthesis, and GPIO automation for smart physical environments.
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="300"/>
-</div>
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">Achievements & Honors</span>
+
+| Honor / Competition | Level & Organizer | Project / Context |
+|:---|:---|:---|
+| 🥈 **SIH 2025 – 1st Runner-Up & Grand Finale Top 5** | **National** · Smart India Hackathon (500+ teams) | **Smart Approval AI** — AICTE/NBA regulatory compliance & audit platform |
+| 🥈 **CODEX Hackfest 2026 – 2nd Runner-Up** | **State Level** | **HealthLens AI / ClinIQ** — medical report intelligence with 5-organ scoring |
+| 🥈 **TechSprint 2026 – 1st Runner-Up** | **GDG On Campus** (100+ teams) | Explainable AI accreditation system with automated scoring |
+| 🏆 **Patent Industry Connect (PIC) 2025 – Winner** | Facilitated by **Hon. Nitin Gadkari** | Featured in *Advantage Vidarbha* published book |
+| 🏆 **IIT Bombay E-Cell – Eureka Winner** | **National** · IIT Bombay | **Winner** – Eureka Ideathon 2025; **Winner** – Eureka Zonal 2024 |
+| 🏅 **11+ Technical Competition Wins** | National / State Level | National hackathons, ideathons, paper and poster competitions (2024–2025) |
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">Tech Stack</span>
+
+<details open>
+<summary><strong><span style="color:#79c0ff">Explore Core Technologies</span></strong></summary>
+
+<br/>
+
+### 💻 Languages & Mathematics
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+- **Math & ML Foundations:** Linear Algebra, Probability & Statistics, Gradient Descent, Loss Optimization, Bias-Variance Tradeoff, Model Evaluation.
+
+### 🧠 AI, RAG & LLM Orchestration
+![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=0467DF)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+- **RAG & Retrieval:** Hybrid Retrieval (Dense + Sparse), BM25, Reciprocal Rank Fusion (RRF), Cross-Encoder Reranking (BGE), Chunking Strategies, Metadata Filtering, MMR Diversity, Confidence Calibration, Query Routing.
+
+### 🔬 Machine Learning & Document Intelligence
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=white)
+- **Document & Vision:** PyMuPDF, Docling, EasyOCR, Tesseract 5.4, Sentence-Transformers, Multimodal Inspection.
+
+### ⚙️ Backend, Databases & Edge
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- **Backend Infrastructure:** REST APIs, AsyncIO, SQLAlchemy, JWT/RBAC, Twilio API, Raspberry Pi Linux, Pytest.
+
+### 🚀 DevOps & Development Tools
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <span style="color:#58a6ff">Certifications & Education</span>
+
+### 🎓 Education
+- **B.Tech in Information Technology** · *Priyadarshini College of Engineering, Nagpur (RTMNU University)*
+  - **CGPA:** 8.15 | *Sep 2023 – Sep 2027*
+  - **Core Coursework:** Mathematics for Machine Learning, Probability & Statistics, Linear Algebra, Data Structures & Algorithms.
+
+### 📜 Certifications & Advanced Programs
+- **Amazon ML Summer School 2026** · *Amazon*
+  - In-depth curriculum in Probabilistic Graphical Models, Supervised Learning Theory, Deep Neural Networks, Generative AI & LLMs, and Causal Inference.
+- **Google Cloud Skill Badges — 16 Badges** · *Google Cloud*
+  - Vertex AI & Prompt Design, Gemini & Streamlit GenAI Apps, Cloud Vision API, Cloud Speech API, Cloud Functions, App Engine, Cloud Storage, Pub/Sub, Dataplex, Looker, API Gateway, Monitoring, Networking Fundamentals, and Cloud Compute.
 
 ---
 
@@ -251,365 +270,61 @@ I bring high learning velocity, strong ownership, and the ability to grow into A
 
 **<span style="color:#79c0ff">Reliability</span>**
 <br/>
-<sub>Safety-first design</sub>
+<sub>Zero hallucination & calibration</sub>
 
 </td>
 <td align="center" width="16%">
 
 **<span style="color:#79c0ff">Interpretability</span>**
 <br/>
-<sub>Explainable decisions</sub>
+<sub>Explainable decisions & audit trails</sub>
+
+</td>
+<td align="center" width="16%">
+
+**Hybrid SLMs**
+<br/>
+<sub>Compact, efficient reasoning</sub>
 
 </td>
 <td align="center" width="16%">
 
 **Evaluation**
 <br/>
-<sub>Benchmark design</sub>
+<sub>Ablation-backed benchmarking</sub>
 
 </td>
 <td align="center" width="16%">
 
-**Modularity**
+**Edge AI**
 <br/>
-<sub>Composable systems</sub>
+<sub>Offline low-power deployment</sub>
 
 </td>
 <td align="center" width="16%">
 
-**<span style="color:#79c0ff">AI Agents</span>**
+**Deterministic Guardrails**
 <br/>
-<sub>Autonomous reasoning</sub>
-
-</td>
-<td align="center" width="16%">
-
-**Sustainability**
-<br/>
-<sub>Long-term systems</sub>
+<sub>Rule-based verification</sub>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
-</div>
-
 <details>
-<summary><strong>Research and Engineering Interests</strong></summary>
+<summary><strong>Research and Systems Engineering Pillars</strong></summary>
 
 <br/>
 
-| Research Area | Focus |
-|:--------------|:------|
-| <span style="color:#79c0ff">AI Reliability and Safety</span> | Failure mode analysis, robustness testing, safety constraints |
-| <span style="color:#79c0ff">Interpretability</span> | Explainability methods, decision transparency, model introspection |
-| Evaluation Frameworks | Benchmark design, metric development, systematic assessment |
-| Modular Architectures | Composable systems, reusable components, clean interfaces |
-| <span style="color:#79c0ff">AI Agents</span> | Tool-augmented reasoning, planning systems, autonomous operation |
-| Long-term Sustainability | Maintainable systems, technical debt management, evolution patterns |
+| Research Focus | Investigation & Engineering Approach |
+|:---|:---|
+| **AI Reliability & Calibration** | Failure mode analysis, confidence calibration (confidence gating), and fallback thresholds to prevent ungrounded outputs. |
+| **Hybrid Retrieval & Reranking** | Dense-sparse scoring interplay (FAISS + BM25 via RRF), MMR diversity filtering, and latency-optimized cross-encoders. |
+| **Small Language Models (SLMs)** | Parameter-efficient architectures, specialized sub-networks, and distillation for on-device/edge reasoning. |
+| **Document & Regulatory Intelligence** | Multi-surface vision OCR, cross-surface pointer resolution, and deterministic statutory rule compliance. |
+| **Edge Hardware AI** | Integer quantization (4-bit/8-bit), local inference engines, and low-latency voice AI on microcomputers. |
 
 </details>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## <span style="color:#58a6ff">Starter README Templates</span>
-
-<details>
-<summary><strong>AI Project README Template</strong></summary>
-
-```markdown
-# Project Name
-
-Brief one-line description of the AI system.
-
-## Problem Statement
-
-What problem does this solve? Why does it matter?
-
-## Architecture
-
-```
-[Input] → [Preprocessing] → [Model] → [Postprocessing] → [Output]
-```
-
-Describe the system architecture, data flow, and key components.
-
-## Tech Stack
-
-| Category | Technologies |
-|:---------|:-------------|
-| Language | Python |
-| Framework | PyTorch / TensorFlow |
-| APIs | OpenAI / Hugging Face |
-| Deployment | Docker, FastAPI |
-
-## Installation
-
-```bash
-git clone https://github.com/username/project.git
-cd project
-pip install -r requirements.txt
-```
-
-## Usage
-
-```python
-from project import Model
-
-model = Model()
-result = model.predict(input_data)
-```
-
-## Results
-
-| Metric | Value |
-|:-------|:------|
-| Accuracy | X.XX |
-| Latency | Xms |
-
-## Future Work
-
-- [ ] Feature 1
-- [ ] Improvement 2
-- [ ] Integration 3
-```
-
-</details>
-
-<details>
-<summary><strong>ML Project README Template</strong></summary>
-
-```markdown
-# Project Name
-
-One-line description of the ML system.
-
-## Problem Statement
-
-Define the ML problem: classification, regression, clustering, etc.
-
-## Dataset
-
-| Property | Value |
-|:---------|:------|
-| Source | Description |
-| Size | X samples |
-| Features | N features |
-| Target | Description |
-
-## Architecture
-
-Model type, layers, hyperparameters overview.
-
-## Tech Stack
-
-| Category | Technologies |
-|:---------|:-------------|
-| Language | Python |
-| ML Framework | Scikit-learn / PyTorch |
-| Data Processing | Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn |
-
-## Installation
-
-```bash
-git clone https://github.com/username/project.git
-cd project
-pip install -r requirements.txt
-```
-
-## Usage
-
-```bash
-python train.py --config config.yaml
-python predict.py --input data.csv
-```
-
-## Results
-
-| Model | Accuracy | F1 Score | AUC |
-|:------|:---------|:---------|:----|
-| Baseline | X.XX | X.XX | X.XX |
-| Final | X.XX | X.XX | X.XX |
-
-## Future Work
-
-- [ ] Hyperparameter tuning
-- [ ] Feature engineering
-- [ ] Model ensemble
-```
-
-</details>
-
-<details>
-<summary><strong>Data Science Project README Template</strong></summary>
-
-```markdown
-# Project Name
-
-One-line description of the analysis.
-
-## Problem Statement
-
-What business question are you answering?
-
-## Data Sources
-
-| Source | Description | Size |
-|:-------|:------------|:-----|
-| Source 1 | Description | X rows |
-| Source 2 | Description | Y rows |
-
-## Methodology
-
-1. Data Collection
-2. Exploratory Data Analysis
-3. Feature Engineering
-4. Modeling
-5. Evaluation
-6. Insights
-
-## Tech Stack
-
-| Category | Technologies |
-|:---------|:-------------|
-| Language | Python / R |
-| Analysis | Pandas, NumPy |
-| Visualization | Matplotlib, Plotly |
-| Dashboards | Streamlit / Power BI |
-
-## Installation
-
-```bash
-git clone https://github.com/username/project.git
-cd project
-pip install -r requirements.txt
-jupyter notebook
-```
-
-## Key Findings
-
-- Finding 1
-- Finding 2
-- Finding 3
-
-## Visualizations
-
-Describe key charts and insights.
-
-## Future Work
-
-- [ ] Additional data sources
-- [ ] Advanced modeling
-- [ ] Dashboard deployment
-```
-
-</details>
-
-<details>
-<summary><strong>Automation / Agent Project README Template</strong></summary>
-
-```markdown
-# Project Name
-
-One-line description of the automation system or AI agent.
-
-## Problem Statement
-
-What manual process is being automated? What decisions does the agent make?
-
-## Architecture
-
-```
-[Trigger] → [Agent/Workflow] → [Tools] → [Actions] → [Output]
-```
-
-Describe agent capabilities, tools, and decision logic.
-
-## Tech Stack
-
-| Category | Technologies |
-|:---------|:-------------|
-| Language | Python / TypeScript |
-| Agent Framework | LangChain / AutoGen |
-| Automation | n8n / Zapier |
-| APIs | External service integrations |
-
-## Installation
-
-```bash
-git clone https://github.com/username/project.git
-cd project
-pip install -r requirements.txt
-cp .env.example .env
-```
-
-## Configuration
-
-```yaml
-agent:
-  model: gpt-4
-  tools:
-    - web_search
-    - code_execution
-    - file_operations
-```
-
-## Usage
-
-```bash
-python agent.py --task "Your task description"
-```
-
-## Capabilities
-
-| Capability | Description |
-|:-----------|:------------|
-| Tool 1 | What it does |
-| Tool 2 | What it does |
-| Tool 3 | What it does |
-
-## Future Work
-
-- [ ] Additional tools
-- [ ] Memory systems
-- [ ] Multi-agent coordination
-```
-
-</details>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## <span style="color:#58a6ff">Achievements</span>
-
-| Recognition | Context |
-|:------------|:--------|
-| **Smart India Hackathon 2025** | Grand Finale — Top 5 Nationally |
-| **Patent Gems of Vidarbha** | PIC 2025 Recognition |
-| **GDG x IEEE TechSprint Hackathon** | 1st Runner-Up |
-| **Eureka Ideathon** | Winner |
-| **Advantage Vidarbha** | Featured in Published Book |
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## <span style="color:#58a6ff">Interactive Exploration</span>
-
-<div align="center">
-
-[![Explore Projects](https://img.shields.io/badge/Explore_Projects-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/Nishant-aiml?tab=repositories)
-[![View GitHub](https://img.shields.io/badge/View_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/Nishant-aiml)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nishantdatta)
-[![Email](https://img.shields.io/badge/Email_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dattanishant02@gmail.com)
-
-</div>
 
 ---
 
@@ -633,26 +348,6 @@ python agent.py --task "Your task description"
 
 ---
 
-<details>
-<summary><strong>Contribution Philosophy</strong></summary>
-
-<br/>
-
-I write code with the expectation that others will read, extend, and depend on it. This means prioritizing clarity over cleverness, documentation over assumptions, and reproducibility over shortcuts. Clean commit histories, meaningful abstractions, and well-tested modules are non-negotiable foundations for collaborative engineering.
-
-</details>
-
-<details>
-<summary><strong>Learning Philosophy</strong></summary>
-
-<br/>
-
-I believe in fundamentals-first learning—understanding core principles deeply before reaching for abstractions. Quick solutions have their place, but lasting competence comes from wrestling with foundations. I optimize for long-term understanding over short-term productivity, trusting that depth compounds over time.
-
-</details>
-
----
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## <span style="color:#58a6ff">Connect</span>
@@ -662,6 +357,7 @@ I believe in fundamentals-first learning—understanding core principles deeply 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishant-aiml)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantdatta)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattanishant02@gmail.com)
+[![Explore Repositories](https://img.shields.io/badge/Explore_All_Repos-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff)](https://github.com/Nishant-aiml?tab=repositories)
 
 </div>
 
@@ -669,6 +365,6 @@ I believe in fundamentals-first learning—understanding core principles deeply 
 
 <div align="center">
 
-*Open to collaboration on research-oriented AI projects and systems engineering challenges.*
+*Open to discussions on Applied AI Research, Hybrid RAG Architectures, and Engineering Production AI Systems.*
 
 </div>
